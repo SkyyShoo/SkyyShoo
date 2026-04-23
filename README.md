@@ -8,8 +8,8 @@
 
 <p align="left">
   <b>→ building</b><br/>
-  <a href ="https://www.unsmart.app/">UnSmart</a> - a dumb phone experience for iOS<br/>
-  <a href ="https://www.crepst.com/">CREPST</a> - digital reading circle platform
+  <a href ="https://www.unsmart.app/" target="_blank"><b>UnSmart</b></a> - a dumb phone experience for iOS<br/>
+  <a href ="https://www.crepst.com/" target="_blank"><b>CREPST</b></a> - digital reading circle platform
 </p>
 
 <br/>
