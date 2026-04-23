@@ -8,7 +8,7 @@
 
 <p align="left">
   <b>→ building</b><br/>
-  UnSmart - a dumb phone experience for iOS
+  UnSmart - a dumb phone experience for iOS<br/>
   CREPST - digital reading circle platform
 </p>
 
