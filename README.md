@@ -8,14 +8,15 @@
 
 <p align="left">
   <b>→ building</b><br/>
-  UnSmart — a dumb phone experience for iOS
+  UnSmart - a dumb phone experience for iOS
+  CREPST - digital reading circle platform
 </p>
 
 <br/>
 
 <p align="left">
   <b>→ stack</b><br/>
-  frontend  → React · TypeScript<br/>
+  frontend  → React · TypeScript · Angular<br/>
   backend   → Node · Express · C# · .NET (MVC · Web API)<br/>
   database   → PostgreSQL · SQLite
 </p>
