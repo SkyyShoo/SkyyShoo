@@ -15,7 +15,9 @@
 
 <p align="left">
   <b>→ stack</b><br/>
-  React · Node · TypeScript · PostgreSQL
+  frontend  → React · TypeScript<br/>
+  backend   → Node · Express · C# · .NET (MVC · Web API)<br/>
+  database   → PostgreSQL · SQLite
 </p>
 
 <br/>
